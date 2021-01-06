@@ -2,7 +2,7 @@
 Welcome to this multiplayer (Player v Player) Tic-Tac-Toe implementation in Python!
 ## Quick Start
 To run this, navigate to your desired location and run the following:
-```console
+```zsh
 git clone https://github.com/S-Par/Tic-Tac-Toe
 cd Tic-Tac-Toe/
 python3 tictactoe.py
